@@ -1236,10 +1236,10 @@ shelljs@^0.8.4:
     interpret "^1.0.0"
     rechoir "^0.6.2"
 
-short_uuid_typedoc_template@^1.0.8:
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/short_uuid_typedoc_template/-/short_uuid_typedoc_template-1.0.8.tgz#98d2aa7eebbf87c3d1d897a6345194c4724e1f65"
-  integrity sha512-L+afDbjiHdL9nF/nQHxZUWTKgm+DsUZJLewYdLUt9bbOip7d00QvBNoCMJhzc/yUt7gAEbtZfj7dY/NUp+CwvA==
+short_uuid_typedoc_template@^1.0.9:
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/short_uuid_typedoc_template/-/short_uuid_typedoc_template-1.0.9.tgz#ea12d82988f6f4dc0dced9b047ad53b8d75c2f8e"
+  integrity sha512-gFnAbuS4qcBv3HEpFTrvr2PjgqvGMHAtKxW/3QKH4qQBFUPDY7C4zKOKM+MURydO3VHni5tauPnqm8URJm1XvA==
   dependencies:
     lunr "^2.3.8"
 
